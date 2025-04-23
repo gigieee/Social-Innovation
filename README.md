@@ -10,8 +10,6 @@
 - [Key Activities](#key-activities)
 - [SDGs Alignment](#sdgs-alignment)
 - [Website Prototype](#website-prototype)
-- [Contribution](#contribution)
-- [License](#license)
 - [Team Members](#team-members)
 
 ---
@@ -54,19 +52,6 @@
 - ช่องทางสำหรับการบริจาคและติดต่อทีมโครงการ
 
 > ***หมายเหตุ:** ยังไม่มีการพัฒนาเว็บไซต์จริง โครงการนี้อยู่ในขั้นการออกแบบแนวคิดและต้นแบบ (concept & prototype only)*
-
----
-
-## Contribution
-
-หากคุณสนใจร่วมพัฒนาเว็บไซต์ต้นแบบต่อ หรือมีไอเดียเพื่อขยายผลโครงการ  
-สามารถเปิด Issue หรือส่ง pull request ได้
-
----
-
-## License
-
-Distributed under the MIT License. See `LICENSE` file for more information.
 
 ---
 
